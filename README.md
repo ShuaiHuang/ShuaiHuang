@@ -4,10 +4,9 @@
 
 ## 📝 About me
 
-- 🧠 10+ years experienced Algorithm Engineer
-- ⚡ Quick problem solver
-- 🩺 Experience in medical image (CT / MRI) reconstruction and analysis
-- 📱 Experience in developing algorithms on Android / Wearable devices
+- 🧠 10+ years experienced Algorithm Researcher
+- 🩺 Have experience in medical image (CT / MRI) reconstruction and analysis
+- 📱 Have experience in algorithm development and deployment on Android and wearable devices
 - 🎮 Fan of open-world games (Cyberpunk 2077, Red Dead Redemption 2)
 
 ## 🛠️ Skills

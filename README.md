@@ -1,8 +1,13 @@
 # 👋 Hi there! I'm Shuai HUANG.
 
-[![Homepage](https://img.shields.io/badge/Homepage-Visit-blue?style=flat-square&logo=github)](https://shuaihuang.github.io/)
+<br>
+
+[![Homepage](https://img.shields.io/badge/Homepage-Visit-blue?style=flat-square&logo=github)](https://shuaihuang.github.io/)&nbsp;
+[![X (Twitter)](https://img.shields.io/badge/X-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Solomon__Huang)
 
 ## 📝 About me
+
+<br>
 
 - 🧠 10+ years experienced Algorithm Researcher
 - 🩺 Have experience in medical image (CT / MRI) reconstruction and analysis
@@ -10,6 +15,8 @@
 - 🎮 Fan of open-world games (Cyberpunk 2077, Red Dead Redemption 2)
 
 ## 🛠️ Skills
+
+<br>
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)&nbsp;

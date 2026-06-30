@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Shuai HUANG.
 
 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue?style=social&logo=github)](https://shuaihuang.github.io/)&nbsp;
-[![X (Twitter)](https://img.shields.io/badge/X-Twitter-000000?style=social&logo=x&logoColor=white)](https://x.com/Solomon__Huang)
+[![X (Twitter)](https://img.shields.io/badge/X-Twitter-000000?style=social&logo=twitter&logoColor=white)](https://x.com/Solomon__Huang)
 
 ## 📝 About me
 
